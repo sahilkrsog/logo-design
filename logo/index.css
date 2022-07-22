@@ -1,0 +1,48 @@
+/* @import url("")
+  @import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap'); */
+ @import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400;500&family=Edu+TAS+Beginner&family=Edu+VIC+WA+NT+Beginner&display=swap');
+
+*{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px; 
+
+}
+#logo{
+    padding-left: 10px;
+    /* position: absolute; */
+    background: rgb(252, 146, 8);
+}
+#f{
+    /* color: rgba(149, 253, 45, 0.712); */
+    /* font-family: 'Edu TAS Beginner', cursive; */
+    /* font-family: 'Edu VIC WA NT Beginner', cursive; */
+    font-size: 100px;
+    position: absolute;
+    
+    
+}
+#c{
+    position: relative;
+    font-size: 159px;
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+    /* font-family: 'Edu VIC WA NT Beginner', cursive; */
+    
+
+    
+    
+    /* font-family: 'Edu VIC WA NT Beginner', cursive; */
+}
+#logo-name{
+    color:rgb(252, 146, 8) ;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+
+}
+body{
+    display: flex;
+    text-align: center;
+    background-color: gray;
+    /* display: block; */
+}
